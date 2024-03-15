@@ -1,0 +1,2 @@
+# betonsbauska
+Bauskas betons homepage
